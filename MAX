@@ -4,3 +4,12 @@ HOST, hboasia*-i.akamaihd.net, Max
 DOMAIN-SUFFIX, s3-ap-southeast-1.amazonaws.com, Max
 DOMAIN-SUFFIX, max.com, Max
 DOMAIN-SUFFIX, discomax.com, Max
+
+DOMAIN-SUFFIX, any-amer.prd.api.max.com, Max
+DOMAIN-SUFFIX, play.max.com, Max
+DOMAIN-SUFFIX, any-any.prd.api.max.com, Max
+DOMAIN-SUFFIX, telegraph.prd.api.max.com, Max
+DOMAIN-SUFFIX, beam-any.prd.api.max.com, Max
+DOMAIN-SUFFIX, beam-amer.prd.api.max.com, Max
+DOMAIN-SUFFIX, beam-amer.use.prd.api.max.com, Max
+DOMAIN-SUFFIX, events.prd.api.max.com, Max
