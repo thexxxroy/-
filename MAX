@@ -1,6 +1,6 @@
-user-agent, HBOAsia*, Max
-host, 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, Max
-host-wildcard, hboasia*-i.akamaihd.net, Max
-host-suffix, s3-ap-southeast-1.amazonaws.com, Max
-host-suffix, max.com, Max
-host-suffix, discomax.com, Max
+USER-AGENT, HBOAsia*, Max
+HOST, 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, Max
+HOST, hboasia*-i.akamaihd.net, Max
+DOMAIN-SUFFIX, s3-ap-southeast-1.amazonaws.com, Max
+DOMAIN-SUFFIX, max.com, Max
+DOMAIN-SUFFIX, discomax.com, Max
